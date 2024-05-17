@@ -1,0 +1,4 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.txt filter=lfs diff=lfs merge=lfs -text
+Ficheiros[[:space:]]de[[:space:]]Teste-20240317.zip filter=lfs diff=lfs merge=lfs -text
+file1.txt filter=lfs diff=lfs merge=lfs -text
